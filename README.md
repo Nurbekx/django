@@ -1,0 +1,2 @@
+Turgynbek Nurbek
+Django Project
